@@ -1,0 +1,30 @@
+ul#selected-plays {
+	background-color: gray;
+}
+
+h2.large-title {
+	font-size: 100px;
+	margin-bottom: 10px;
+}
+
+
+td:nth-child(3) {
+	background-color: gray;
+}
+
+#selected-plays>li>ul>li {
+	color:red;
+}
+
+tr:nth-child(even) {
+	background-color: gray;
+}
+
+a[href$=".pdf"] {
+	font-color:blue;
+	font-size: 20px;
+}
+
+a[href*="asyoulikeit"] {
+	color:orange;
+}
