@@ -1,0 +1,17 @@
+.margin-top-20 {
+	margin-top: 20px;
+}
+
+.small-container {
+	max-width: 900px;
+}
+
+.divider {
+	border-top: #CCC 1px solid;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.j-dub {
+	text-align: center;
+}

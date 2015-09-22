@@ -1,0 +1,14 @@
+.row div {
+	height: 50px;
+	background-color: #CCC;  
+	border: #000 1px solid;
+}
+
+.glyphicon-grain {
+	font-size: 40px;
+}
+
+.lilas-button {
+	background-color: purple;
+	color: white;
+}
